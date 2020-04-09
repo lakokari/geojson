@@ -1,0 +1,22 @@
+[
+    {
+        "label": "Progres PPKD",
+        "kode": 1
+    },
+    {
+        "label": "Anggaran 2020",
+        "kode": 2
+    },
+    {
+        "label": "Lembaga Kebudayaan",
+        "kode": 3
+    },
+    {
+        "label": "Objek Pemajuan Kebudayaan",
+        "kode": 4
+    },
+    {
+        "label": "Tenaga Budaya",
+        "kode": 5
+    }
+]
