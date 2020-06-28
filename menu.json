@@ -1,6 +1,6 @@
 [
-        { icon: 'mdi-contacts', text: 'Hasil Survey' },
-        { icon: 'mdi-history', text: 'Token Generator' },
+        { icon: 'mdi-contacts', text: 'Hasil Survey', link: '/profiling' },
+        { icon: 'mdi-history', text: 'Token Generator', link: '/generator' },
         { icon: 'mdi-content-copy', text: 'Duplicates' },
         {
           icon: 'mdi-chevron-up',
