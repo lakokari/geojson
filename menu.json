@@ -1,6 +1,6 @@
 [
-        { icon: 'mdi-contacts', text: 'Contacts' },
-        { icon: 'mdi-history', text: 'Frequently contacted' },
+        { icon: 'mdi-contacts', text: 'Hasil Survey' },
+        { icon: 'mdi-history', text: 'Token Generator' },
         { icon: 'mdi-content-copy', text: 'Duplicates' },
         {
           icon: 'mdi-chevron-up',
