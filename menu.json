@@ -1,0 +1,32 @@
+      [
+        { icon: 'mdi-contacts', text: 'Contacts' },
+        { icon: 'mdi-history', text: 'Frequently contacted' },
+        { icon: 'mdi-content-copy', text: 'Projects' },
+        {
+          icon: 'mdi-chevron-up',
+          'icon-alt': 'mdi-chevron-down',
+          text: 'Labels',
+          model: true,
+          children: [
+            { icon: 'mdi-plus', text: 'Create label' },
+          ],
+        },
+        {
+          icon: 'mdi-chevron-up',
+          'icon-alt': 'mdi-chevron-down',
+          text: 'More',
+          model: false,
+          children: [
+            { text: 'Import' },
+            { text: 'Export' },
+            { text: 'Print' },
+            { text: 'Undo changes' },
+            { text: 'Other contacts' },
+          ],
+        },
+        { icon: 'mdi-cog', text: 'Settings' },
+        { icon: 'mdi-message', text: 'Send feedback' },
+        { icon: 'mdi-help-circle', text: 'Manajemen Profile' },
+        { icon: 'mdi-cellphone-link', text: 'Klien' },
+        { icon: 'mdi-keyboard', text: 'Admin' },
+      ]
