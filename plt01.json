@@ -1,0 +1,812 @@
+[
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Informasi yang tersaji selalu berarti bagi saya", "aspek": ["ANALISIS" ,"DEVELOPMENT"] },
+			{"id": 1, "text":"Saya mengikuti petunjuk – petunjuk yang diberikan.", "aspek": ["STRUKTURAL"]}
+		],
+		"correct": 1,
+		"id": 1
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya teliti, tepat dan akurat", "aspek": ["ANALISIS"] },
+			{"id": 1, "text":"Saya bekerja dengan teori", "aspek": ["KONSEPTUAL"] }
+		],
+		"correct": 1,
+		"id": 2
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mengungkapkan dengan mantap saat membicarakan tugas", "aspek": ["EKSPRESIF", "COMMUNICATION", "LEAD IN CHANGE"] },
+			{"id": 1, "text":"Saya mudah mengungkapkan data dalam susunan kalimat pernyataan", "aspek": ["ADAPTIF", "COMMUNICATION"] }
+		],
+		"correct": 1,
+		"id": 3
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya bersikap tidak suka saat merasa tidak setuju", "aspek": ["EKSPRESIF", "COMMUNICATION"] },
+			{"id": 1, "text":"Saya bersedia untuk menahan diri untuk tidak bicara saat orang lain berbicara", "aspek": ["ASERTIF", "COMMUNICATION", "LEAD IN CHANGE"] }
+		],
+		"correct": 1,
+		"id": 4
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya memberikan gambaran akan tujuan dan sasaran yang akan diperoleh", "aspek": ["DIRECTING", "DEVELOPMENT", "LEAD IN CHANGE"] },
+			{"id": 1, "text":"Saya berbicara memberikan instruksi dan diikuti dengan tindakan nyata oleh rekan", "aspek": ["INFLUENCING", "COMMUNICATION" , "LEAD IN CHANGE"] }
+		],
+		"correct": 1,
+		"id": 5
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menyusun rencana dan membuat langkah kongkrit pelaksanaan", "aspek": ["DIRECTING", "DEVELOPMENT", "LEAD IN CHANGE"] },
+			{"id": 1, "text":"Saya menahan diri untuk tidak bicara saat orang lain sedang bicara", "aspek": ["LISTENING", "COMMUNICATION"] }
+		],
+		"correct": 1,
+		"id": 6
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menyukai petunjuk-petunjuk terperinci dalam menyelesaikan pekerjaan", "aspek": ["STRUKTURAL"] },
+			{"id": 1, "text":"Saya banyak berpikir dan berencana", "aspek": ["KONSEPTUAL", "DEVELOPMENT", "LEAD IN CHANGE"] }
+		],
+		"correct": 1,
+		"id": 7
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya senang diberitahu bagaimana melakukan suatu pekerjaan", "aspek": ["STRUKTURAL"]},
+			{"id": 1, "text":"Saya selalu berhati-hati", "aspek": ["ANALISIS"]}
+		],
+		"correct": 1,
+		"id": 8
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya membuka diskusi untuk persoalan sesuai konteksnya saja", "aspek": ["ADAPTIF", "COMMUNICATION"]},
+			{"id": 1, "text":"Saya cepat berubah bila diperlukan", "aspek": ["ASERTIF", "DEVELOPMENT"]}
+		],
+		"correct": 1,
+		"id": 9
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menyelesaikan persoalan berdasarkan objek masalah", "aspek": ["ADAPTIF", "DEVELOPMENT"]},
+			{"id": 1, "text":"Saya tertantang saat menghadapi hambatan yang sulit bagi tim", "aspek": ["EKSPRESIF", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 10
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya tanpa bicara mengikuti gerakan tubuh lawan bicara", "aspek": ["INFLUENCING"]},
+			{"id": 1, "text":"Saya mampu mengenali kondisi emosi orang lain saat sedang berinteraksi", "aspek": ["LISTENING", "COMMUNICATION"]}
+		],
+		"correct": 1,
+		"id": 11
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya memastikan instruksi yang diberikan terlaksana secara nyata", "aspek": ["INFLUENCING", "COMMUNICATION", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya memilah persoalan rumit menjadi inti persoalan sesungguhnya", "aspek": ["DIRECTING", "DEVELOPMENT"]}
+		],
+		"correct": 1,
+		"id": 12
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya merencanakan jauh-jauh sebelumnya", "aspek": ["KONSEPTUAL", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya berpikir panjang dan hati hati", "aspek": ["ANALISIS"]}
+		],
+		"correct": 1,
+		"id": 13
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya banyak menghabiskan waktu dengan berpikir", "aspek": ["KONSEPTUAL"]},
+			{"id": 1, "text":"Saya suka mengikuti peraturan dengan hati–hati", "aspek": ["STRUKTURAL"]}
+		],
+		"correct": 1,
+		"id": 14
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya suka melakukan hal-hal baru dan berbeda", "aspek": ["ASERTIF", "DEVELOPMENT"]},
+			{"id": 1, "text":"Saya bersikap keras terhadap tindakan yang akan berakibat fatal", "aspek": ["EKSPRESIF", "COMMUNICATION"]}
+		],
+		"correct": 1,
+		"id": 15
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya lebih menyukai situasi dinamis dan menuntut perubahan secara cepat", "aspek": ["ASERTIF", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya menentukan sumber masalah berdasarkan data actual", "aspek": ["ADAPTIF"]}
+		],
+		"correct": 1,
+		"id": 16
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya memilah-milah informasi yang penting dan tidak penting", "aspek": ["LISTENING", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya memacu penyelesaian tugas yang terlihat mulai melambat tempo kerjanya", "aspek": ["DIRECTING", "DEVELOPMENT"]}
+		],
+		"correct": 1,
+		"id": 17
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya memahami persepsi orang lain", "aspek": ["LISTENING"]},
+			{"id": 1, "text":"Rekan kerja mampu menirukan pola kerja dan urutan tugas yang saya berikan", "aspek": ["INFLUENCING"]}
+		],
+		"correct": 1,
+		"id": 18
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya suka membaca", "aspek": ["ANALISIS"]},
+			{"id": 1, "text":"Saya membiarkan diri banyak dipengaruhi orang lain", "aspek": ["STRUKTURAL"]}
+		],
+		"correct": 1,
+		"id": 19
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mencari tahu hubungan satu data informasi dengan data lainnya", "aspek": ["ANALISIS"]},
+			{"id": 1, "text":"Saya mencari ide untuk mendapatkan solusi", "aspek": ["KONSEPTUAL"]}
+		],
+		"correct": 1,
+		"id": 20
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya bersemangat saat  memberikan penjelasan baru yang menguntungkan", "aspek": ["EKSPRESIF", "DEVELOPMENT", "COMMUNICATION", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya mudah untuk mengatakan tidak", "aspek": ["ADAPTIF", "COMMUNICATION"]}
+		],
+		"correct": 1,
+		"id": 21
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mampu untuk mengungkapkan rasa marah saat situasi mengecewakan terjadi", "aspek": ["EKSPRESIF", "COMMUNICATION"]},
+			{"id": 1, "text":"Saya bersedia mengambil tindakan sesaat tanpa perencanaan terlebih dahulu", "aspek": ["ASERTIF", "DEVELOPMENT"]}
+		],
+		"correct": 1,
+		"id": 22
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mengadakan briefing saat situasi tidak terkendali", "aspek": ["DIRECTING", "DEVELOPMENT", "COMMUNICATION"]},
+			{"id": 1, "text":"Saya mampu menuntun tim kerja mencapai sasaran pada waktu singkat", "aspek": ["INFLUENCING", "DEVELOPMENT", "COMMUNICATION"]}
+		],
+		"correct": 1,
+		"id": 23
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mengambil keputusan sesuai urgensinya", "aspek": ["DIRECTING", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya mampu menerima pola pikir pihak lain", "aspek": ["LISTENING", "DEVELOPMENT", "COMMUNICATION"]}
+		],
+		"correct": 1,
+		"id": 24
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menyukai orang lain yang membuat keputusan untuk kelompok", "aspek": ["STRUKTURAL"]},
+			{"id": 1, "text":"Saya menyelesaikan tugas dengan cara yang tak biasa", "aspek": ["KONSEPTUAL", "DEVELOPMENT"]}
+		],
+		"correct": 1,
+		"id": 25
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menyukai petunjuk-petunjuk yang jelas", "aspek": ["STRUKTURAL", "COMMUNICATION"]},
+			{"id": 1, "text":"Setiap persoalan dapat mempengaruhi keputusan yang diambil", "aspek": ["ANALISIS", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 26
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menceritakan kronologis kejadian", "aspek": ["ADAPTIF", "COMMUNICATION"]},
+			{"id": 1, "text":"Saya mudah mengatur kondisi emosi negative menjadi positif", "aspek": ["ASERTIF", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 27
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya berorientasi kepada logika dan situasi nyata", "aspek": ["ADAPTIF"]},
+			{"id": 1, "text":"Saya mudah memberikan pujian saat rekan mendapat keberhasilan", "aspek": ["EKSPRESIF", "DEVELOPMENT", "COMMUNICATION", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 28
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mampu mempengaruhi orang lain untuk menerima pendapat", "aspek": ["INFLUENCING", "COMMUNICATION", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya mengenali emosi orang lain", "aspek": ["LISTENING", "COMMUNICATION"]}
+		],
+		"correct": 1,
+		"id": 29
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Rekan saya langsung melakukan tugas tanpa banyak hal yang mereka tanyakan", "aspek": ["INFLUENCING"]},
+			{"id": 1, "text":"Saya mengambil tindakan tanpa harus berkonsultasi terlebih dahulu dengan atasan", "aspek": ["DIRECTING", "DEVELOPMENT"]}
+		],
+		"correct": 1,
+		"id": 30
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mampu mengubah ide sesaat diperlukan", "aspek": ["KONSEPTUAL", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya yakin dan percaya kemajuan tehnologi membuat setiap orang dapat bertahan hidup", "aspek": ["ANALISIS", "DEVELOPMENT", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 31
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menyukai melakukan hal-hal baru dan berbeda", "aspek": ["KONSEPTUAL", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya menyukai jika diberitahu tentang apa yang saya perlu lakukan", "aspek": ["STRUKTURAL"]}
+		],
+		"correct": 1,
+		"id": 32
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mengubah cara kerja sesuai dengan tuntutan pada situasi praktis", "aspek": ["ASERTIF", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya ungkapkan rasa kecewa jika hal yang tak diinginkan terjadi", "aspek": ["EKSPRESIF"]}
+		],
+		"correct": 1,
+		"id": 33
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menerima pendapat orang lain sebagai bahan pertimbangan persoalan", "aspek": ["ASERTIF", "COMMUNICATION", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya berdebat dengan tenggat waktu panjang", "aspek": ["ADAPTIF"]}
+		],
+		"correct": 1,
+		"id": 34
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mengetahui kapan saatnya untuk bertindak", "aspek": ["LISTENING", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya memberikan penjelasan dalam situasi rapat tanpa mengubah rencana awal", "aspek": ["DIRECTING", "COMMUNICATION"]}
+		],
+		"correct": 1,
+		"id": 35
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya memastikan inti persoalan yang ada sesuai konteksnya", "aspek": ["LISTENING"]},
+			{"id": 1, "text":"Saya memastikan hasil kerja dari rekan tergolong sesuai dengan tujuan", "aspek": ["INFLUENCING", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 36
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya percaya karyawan dapat bekerja baik jika mendapat waktu istirahat cukup", "aspek": ["ANALISIS"]},
+			{"id": 1, "text":"Saya menyelesaikan tugas lebih mudah dengan panduan yang jelas dan terarah", "aspek": ["STRUKTURAL", "COMMUNICATION"]}
+		],
+		"correct": 1,
+		"id": 37
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mengalami bahwa, setiap persoalan memiliki solusi produktif", "aspek": ["ANALISIS", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya mudah bosan dan langsung mencari ide baru", "aspek": ["KONSEPTUAL", "DEVELOPMENT"]}
+		],
+		"correct": 1,
+		"id": 38
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menghendaki suasana ceria dan gembira pada tempat kerja", "aspek": ["EKSPRESIF"]},
+			{"id": 1, "text":"Saya memastkan jawaban yang tepat untuk menyelesaikan persoalan", "aspek": ["ADAPTIF", "COMMUNICATION"]}
+		],
+		"correct": 1,
+		"id": 39
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya perlu memastikan waktu untuk memahami kondisi orang lain", "aspek": ["EKSPRESIF"]},
+			{"id": 1, "text":"Saya mengubah emosi pesimis menjadi optimis dalam jeda waktu yang singkat", "aspek": ["ASERTIF", "COMMUNICATION", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 40
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya membantu rekan kerja untuk melakukan tugas yang belum selesai", "aspek": ["DIRECTING", "DEVELOPMENT", "COMMUNICATION", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya melihat orang lain menirukan aktivitas dan prilaku saya", "aspek": ["INFLUENCING", "COMMUNICATION", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 41
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya memastikan langkah kerja sesuai dengan urutan", "aspek": ["DIRECTING"]},
+			{"id": 1, "text":"Saya melakukan pemetaan terhadap situasi yang ada", "aspek": ["LISTENING", "DEVELOPMENT", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 42
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya lebih menyukai mendapat aturan dan intruksi kerja yang jelas dan baku", "aspek": ["STRUKTURAL", "COMMUNICATION"]},
+			{"id": 1, "text":"Saya menyukai eksperimen dan membuat kesimpulan", "aspek": ["KONSEPTUAL", "DEVELOPMENT", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 43
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya lebih menyukai pendapat aturan dan instruksi kerja yang jelas dan baku", "aspek": ["STRUKTURAL", "COMMUNICATION"]},
+			{"id": 1, "text":"Saya mengalami bahwa, setiap persoalan memiliki solusi produktif", "aspek": ["ANALISIS", "DEVELOPMENT", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 44
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya kuat untuk melakukan debat dalam memastikan sesuatu yang akurat", "aspek": ["ADAPTIF", "COMMUNICATION"]},
+			{"id": 1, "text":"Saya mampu melakukan menyelesaikan dengan situasi saat harus membuat prioritas penyelesaian tugas", "aspek": ["ASERTIF", "DEVELOPMENT", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 45
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya kuat melakukan debat dalam memastikan suatu data akurat", "aspek": ["ADAPTIF", "COMMUNICATION"]},
+			{"id": 1, "text":"Saya memerlukan memberikan waktu untuk memahami kondisi orang lain", "aspek": ["EKSPRESIF"]}
+		],
+		"correct": 1,
+		"id": 46
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menyukai berbicara dalam kerumunan", "aspek": ["INFLUENCING"]},
+			{"id": 1, "text":"Saya melakukan konfirmasi atas situasi yang sedang dihadapi", "aspek": ["LISTENING", "COMMUNICATION", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 47
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menyukai berbicara didalam kerumunan", "aspek": ["INFLUENCING"]},
+			{"id": 1, "text":"Saya memastikan langkah kerja sesuai dengan urutan", "aspek": ["DIRECTING"]}
+		],
+		"correct": 1,
+		"id": 48
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menyukai ekperimen dan membuat kesimpulan", "aspek": ["KONSEPTUAL", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya percaya karyawan yang dapat bekerja baik jika mendapat waktu istirahat cukup", "aspek": ["ANALISIS"]}
+		],
+		"correct": 1,
+		"id": 49
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mudah bosan dan langsung mencari ide baru", "aspek": ["KONSEPTUAL", "DEVELOPMENT"]},
+			{"id": 1, "text":"Saya menyelesaikan tugas lebih mudah dengan panduan yang jelas dan terarah", "aspek": ["STRUKTURAL", "COMMUNICATION"]}
+		],
+		"correct": 1,
+		"id": 50
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mampu menyesuaikan dengan situasi saat akan membuat prioritas penyelesaian tugas", "aspek": ["ASERTIF", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya menghendaki suasana ceria dan gembira pada tempat kerja", "aspek": ["EKSPRESIF"]}
+		],
+		"correct": 1,
+		"id": 51
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mengubah emosi pesimis menjadi optimis dalam waktu jeda yang singkat", "aspek": ["ASERTIF", "COMMUNICATION", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya memastikan jawaban yang tepat untuk menyelesaikan persoalan", "aspek": ["ADAPTIF", "COMMUNICATION"]}
+		],
+		"correct": 1,
+		"id": 52
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya melakukan konfirmasi atas situasi yang sedang dihadapi", "aspek": ["LISTENING", "COMMUNICATION", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya membantu rekan untuk melakukan tugas yang belum selesai", "aspek": ["DIRECTING", "DEVELOPMENT", "COMMUNICATION"]}
+		],
+		"correct": 1,
+		"id": 53
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya melakukan pemetaan terhadap situasi yang ada", "aspek": ["LISTENING", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya melihat rekan menirukan aktifitas dan prilaku saya", "aspek": ["INFLUENCING", "COMMUNICATION", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 54
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya yakin dan percaya kemajuan teknologi membuat setiap orang dapat bertahan hidup", "aspek": ["ANALISIS", "DEVELOPMENT"]},
+			{"id": 1, "text":"Saya menukai jika diberitahu tentang apa yang saya perlu lakukan", "aspek": ["STRUKTURAL"]}
+		],
+		"correct": 1,
+		"id": 55
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Setiap persoalan dapat mempengaruhi keputusan yang diambil", "aspek": ["ANALISIS", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya suka melakukan hal-hal yang berbeda", "aspek": ["KONSEPTUAL", "DEVELOPMENT", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 56
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya ungkapkan rasa kecewa jika hal yang tak diinginkan terjadi", "aspek": ["EKSPRESIF"]},
+			{"id": 1, "text":"Saya berdebat dalam tenggat waktu panjang", "aspek": ["ADAPTIF"]}
+		],
+		"correct": 1,
+		"id": 57
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mudah memberikan pujian saat rekan mendapat keberhasilan", "aspek": ["EKSPRESIF", "DEVELOPMENT", "COMMUNICATION", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya menerima pendapat orang lain sebagai bahan pertimbangan persoalan", "aspek": ["ASERTIF", "COMMUNICATION", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 58
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya memberikan penjelasan dalam situasi rapat tanpa mengubah rencana awal", "aspek": ["DIRECTING", "COMMUNICATION"]},
+			{"id": 1, "text":"Saya memiliki hasil kerja rekan yang tergolong sesuai dengan tujuan", "aspek": ["INFLUENCING", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 59
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mengambil tindakan tanpa harus berkonsultasi terlebih dahulu dengan atasan", "aspek": ["DIRECTING", "DEVELOPMENT"]},
+			{"id": 1, "text":"Saya memastikan inti persoalan yang ada sesuai konteksnya", "aspek": ["LISTENING"]}
+		],
+		"correct": 1,
+		"id": 60
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menyukai petunjuk-petunjuk yang jelas", "aspek": ["STRUKTURAL", "COMMUNICATION"]},
+			{"id": 1, "text":"Saya mampu mengubah ide sesaat diperlukan", "aspek": ["KONSEPTUAL", "DEVELOPMENT", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 61
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menyukai orang lain yang membuat keputusan untuk kelompok", "aspek": ["STRUKTURAL"]},
+			{"id": 1, "text":"Saya mencari tahu hubungan satu sata informasi dengan data yang lainnya", "aspek": ["ANALISIS"]}
+		],
+		"correct": 1,
+		"id": 62
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya berorientasi kepada logika dan situasi nyata", "aspek": ["ADAPTIF"]},
+			{"id": 1, "text":"Saya mengubah cara kerja sesuai dengan tuntutan pada situasi praktis", "aspek": ["ASERTIF", "DEVELOPMENT", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 63
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menceritakan kronologis kejadian", "aspek": ["ADAPTIF", "COMMUNICATION"]},
+			{"id": 1, "text":"Saya mampu untuk mengungkapkan rasa marah saat situasi mengecewakan terjadi", "aspek": ["EKSPRESIF", "COMMUNICATION"]}
+		],
+		"correct": 1,
+		"id": 64
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya melihat rekan  yang langsung melakukan tugas tanpa banyak hal yang mereka tanyakan", "aspek": ["INFLUENCING"]},
+			{"id": 1, "text":"Saya mengetahui kapan saatnya untuk bertindak", "aspek": ["LISTENING", "DEVELOPMENT", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 65
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mampu mempengaruhi orang lain untuk menerima pendapat", "aspek": ["INFLUENCING", "COMMUNICATION", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya mampu mengambil keputusan sesuai dengan uregensi", "aspek": ["DIRECTING", "DEVELOPMENT", "COMMUNICATION", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 66
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"aya menyelesaikan tugas dengan cara yang tidak biasa", "aspek": ["KONSEPTUAL", "DEVELOPMENT"]},
+			{"id": 1, "text":"Saya suka membaca", "aspek": ["ANALISIS"]}
+		],
+		"correct": 1,
+		"id": 67
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mencari ide untuk mendapatkan solusi", "aspek": ["KONSEPTUAL"]},
+			{"id": 1, "text":"Saya membiarkan diri banyak dipengaruhi oleh orang lain", "aspek": ["STRUKTURAL"]}
+		],
+		"correct": 1,
+		"id": 68
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mudah mengatur kondisi emosi negative menjadi positif", "aspek": ["ASERTIF", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya bersemangat saat memberikan penjelasan baru yang menguntungkan", "aspek": ["EKSPRESIF", "DEVELOPMENT", "COMMUNICATION", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 69
+	},
+ {
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya bersedia mengambil tindakan sesaat tanpa perencanaan terlebih dahulu", "aspek": ["ASERTIF", "DEVELOPMENT"]},
+			{"id": 1, "text":"Saya mudah untuk mengatakan tidak", "aspek": ["ADAPTIF", "COMMUNICATION"]}
+		],
+		"correct": 1,
+		"id": 70
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mampu mengenali emosi orang lain", "aspek": ["LISTENING"]},
+			{"id": 1, "text":"Saya mengadakan briefing saat situasi tidak terkendali", "aspek": ["DIRECTING", "DEVELOPMENT", "COMMUNICATION"]}
+		],
+		"correct": 1,
+		"id": 71
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mampu menerima pola piker pihak lain", "aspek": ["LISTENING", "DEVELOPMENT"]},
+			{"id": 1, "text":"Saya mampu menuntun tim kerja mencapai sasaran pada waktu singkat", "aspek": ["INFLUENCING", "DEVELOPMENT"]}
+		],
+		"correct": 1,
+		"id": 72
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya berpikir panjang dan hati-hati", "aspek": ["ANALISIS"]},
+			{"id": 1, "text":"Saya suka mengikuti peraturan dengan hati-hati", "aspek": ["STRUKTURAL"]}
+		],
+		"correct": 1,
+		"id": 73
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya selalu berhati-hati", "aspek": ["ANALISIS"]},
+			{"id": 1, "text":"Saya banyak menghabiskan waktu dengan berpikir", "aspek": ["KONSEPTUAL"]}
+		],
+		"correct": 1,
+		"id": 74
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya bersikap kerasa terhadap tindakan yang akan berakibat fatal", "aspek": ["EKSPRESIF", "COMMUNICATION"]},
+			{"id": 1, "text":"Saya menentukan sumber masalah berdasarkan data actual", "aspek": ["ADAPTIF"]}
+		],
+		"correct": 1,
+		"id": 75
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya tertantang saat menghadapi hambatan yang sulit bagi tim", "aspek": ["EKSPRESIF", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya lebih menyukai situasi yang dinamis dan menuntut perubahan secara tepat", "aspek": ["ASERTIF", "DEVELOPMENT", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 76
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya memacu menyelesaikan tugas yang terlihat mulai melambat tempo kerjanya", "aspek": ["DIRECTING", "DEVELOPMENT"]},
+			{"id": 1, "text":"ekan kerja mampu menirukan pola kerja dan urutan tugas yang saya berikan", "aspek": ["INFLUENCING"]}
+		],
+		"correct": 1,
+		"id": 77
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya memilah persoalan rumit menjadi inti persoalan sesungguhnya", "aspek": ["DIRECTING", "DEVELOPMENT"]},
+			{"id": 1, "text":"Saya memahami persepsi orang lain", "aspek": ["LISTENING"]}
+		],
+		"correct": 1,
+		"id": 78
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya senang diberitahu bagaimana melakukan sesuatu pekerjaan", "aspek": ["STRUKTURAL"]},
+			{"id": 1, "text":"Saya merencanakan jauh-jauh sebelumnya", "aspek": ["KONSEPTUAL", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 79
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menyukai petunjuk-petunjuk terperinci dalam menyelesaikan pekerjaan", "aspek": ["STRUKTURAL"]},
+			{"id": 1, "text":"Saya teliti,tepat dan akurat", "aspek": ["ANALISIS"]}
+		],
+		"correct": 1,
+		"id": 80
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menyelesaikan persoalan berdasarkan objek masalah", "aspek": ["ADAPTIF", "DEVELOPMENT"]},
+			{"id": 1, "text":"Saya suka melakukan hal-hal baru dan berbeda", "aspek": ["ASERTIF", "DEVELOPMENT"]}
+		],
+		"correct": 1,
+		"id": 81
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya membuka diskusi untuk persoalan sesuai konteks saja", "aspek": ["ADAPTIF", "COMMUNICATION"]},
+			{"id": 1, "text":"Saya bersikap tidak suka saat merasa tidak setuju", "aspek": ["EKSPRESIF", "COMMUNICATION"]}
+		],
+		"correct": 1,
+		"id": 82
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya memastikan instruksi yang diberikan terlaksana secara nyata", "aspek": ["INFLUENCING", "COMMUNICATION", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya memilah-milah informasi yang penting dan tidak penting", "aspek": ["LISTENING", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 83
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya tanpa bicara mengikuti gerakan tubuh lawan  bicara", "aspek": ["INFLUENCING"]},
+			{"id": 1, "text":"Saya menyusun rencana dan membuat langkah kongrit pelaksanaan", "aspek": ["DIRECTING", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 84
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya banyak berpikir dan berencana", "aspek": ["KONSEPTUAL", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"Saya terbiasa menerima informasi yang tersaji selalu berarti", "aspek": ["ANALISIS", "DEVELOPMENT"]}
+		],
+		"correct": 1,
+		"id": 85
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya bekerja dengan teori", "aspek": ["KONSEPTUAL"]},
+			{"id": 1, "text":"Saya mengikuti petunjuk-petunjuk yang diberikan kepada saya", "aspek": ["STRUKTURAL"]}
+		],
+		"correct": 1,
+		"id": 86
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya cepat berubah jika saya diperlukan", "aspek": ["ASERTIF", "DEVELOPMENT"]},
+			{"id": 1, "text":"Saya mengungkapkan dengan mantap saat membicarakan tugas", "aspek": ["EKSPRESIF", "COMMUNICATION", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 87
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya bersedia untuk menahan diri untuk tidak bicara saat orang lain berbicara", "aspek": ["ASERTIF", "COMMUNICATION", "LEAD IN CHANGE"]},
+			{"id": 1, "text":"aya mudah mengungkapkan data dalam susuna kalimat pernyataan", "aspek": ["ADAPTIF", "COMMUNICATION"]}
+		],
+		"correct": 1,
+		"id": 88
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya mampu mengenali kondsisi emosi orang lain saat sedang beriteraksi", "aspek": ["LISTENING", "COMMUNICATION"]},
+			{"id": 1, "text":"Saya memberikan gambaran akan tujuan dan sasaran yang akan diperoleh", "aspek": ["DIRECTING", "DEVELOPMENT", "COMMUNICATION", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 89
+	},
+	{
+		"question": "",
+		"answers": [
+			{"id": 0, "text":"Saya menahan diri untuk tidak bicara saat orang lain sedang berbicara", "aspek": ["LISTENING"]},
+			{"id": 1, "text":"Saya berbicara memberikan instruksi dan diikuti dengan tindakan nyata oleh rekan", "aspek": ["INFLUENCING", "COMMUNICATION", "LEAD IN CHANGE"]}
+		],
+		"correct": 1,
+		"id": 90
+	}
+]
