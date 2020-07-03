@@ -1,7 +1,7 @@
 [
 	{
 		"question": "Pilih gambar di bawah ini yang paling tepat untuk sebagai gambar berikutnya",
-        "qImg": "https://picsum.photos/id/1/400/200",
+        	"qImg": "https://picsum.photos/id/1/400/200",
 		"answers": [
 			{"id": 0, "aImg": https://picsum.photos/id/2/200/200,  "text":"Informasi yang tersaji selalu berarti bagi saya", "aspek": ["ANALISIS" ,"DEVELOPMENT"] },
 			{"id": 1, "aImg": https://picsum.photos/id/3/200/200,  "text":"Saya mengikuti petunjuk – petunjuk yang diberikan.", "aspek": ["STRUKTURAL"]},
@@ -14,7 +14,7 @@
 	},
 	{
 		"question": "Pilih gambar di bawah ini yang paling tepat untuk sebagai gambar berikutnya",
-        "qImg": "https://picsum.photos/id/7/400/200",
+       		"qImg": "https://picsum.photos/id/7/400/200",
 		"answers": [
 			{"id": 0, "aImg": https://picsum.photos/id/8/200/200,  "text":"Informasi yang tersaji selalu berarti bagi saya", "aspek": ["ANALISIS" ,"DEVELOPMENT"] },
 			{"id": 1, "aImg": https://picsum.photos/id/9/200/200,  "text":"Saya mengikuti petunjuk – petunjuk yang diberikan.", "aspek": ["STRUKTURAL"]},
@@ -27,7 +27,7 @@
 	},
 	{
 		"question": "Pilih gambar di bawah ini yang paling tepat untuk sebagai gambar berikutnya",
-        "qImg": "https://picsum.photos/id/13/400/200",
+        	"qImg": "https://picsum.photos/id/13/400/200",
 		"answers": [
 			{"id": 0, "aImg": https://picsum.photos/id/14/200/200,  "text":"Informasi yang tersaji selalu berarti bagi saya", "aspek": ["ANALISIS" ,"DEVELOPMENT"] },
 			{"id": 1, "aImg": https://picsum.photos/id/15/200/200,  "text":"Saya mengikuti petunjuk – petunjuk yang diberikan.", "aspek": ["STRUKTURAL"]},
@@ -40,7 +40,7 @@
 	},
 	{
 		"question": "Pilih gambar di bawah ini yang paling tepat untuk sebagai gambar berikutnya",
-        "qImg": "https://picsum.photos/id/19/400/200",
+        	"qImg": "https://picsum.photos/id/19/400/200",
 		"answers": [
 			{"id": 0, "aImg": https://picsum.photos/id/20/200/200,  "text":"Informasi yang tersaji selalu berarti bagi saya", "aspek": ["ANALISIS" ,"DEVELOPMENT"] },
 			{"id": 1, "aImg": https://picsum.photos/id/21/200/200,  "text":"Saya mengikuti petunjuk – petunjuk yang diberikan.", "aspek": ["STRUKTURAL"]},
@@ -53,7 +53,7 @@
 	},
 	{
 		"question": "Pilih gambar di bawah ini yang paling tepat untuk sebagai gambar berikutnya",
-        "qImg": "https://picsum.photos/id/25/400/200",
+        	"qImg": "https://picsum.photos/id/25/400/200",
 		"answers": [
 			{"id": 0, "aImg": https://picsum.photos/id/26/200/200,  "text":"Informasi yang tersaji selalu berarti bagi saya", "aspek": ["ANALISIS" ,"DEVELOPMENT"] },
 			{"id": 1, "aImg": https://picsum.photos/id/27/200/200,  "text":"Saya mengikuti petunjuk – petunjuk yang diberikan.", "aspek": ["STRUKTURAL"]},
