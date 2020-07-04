@@ -1,0 +1,576 @@
+[
+	{
+        "question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/1_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/1_2.png", "text":""}
+        ],
+        "aspect":[
+			{"id": 0, "aspek": ["ANALISIS" ,"DEVELOPMENT"] },
+			{"id": 1, "aspek": ["STRUKTURAL"]}
+        ],
+		"correct": 1,
+		"id": 1
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/2_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/2_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["ANALISIS"] },
+			{"id": 1, "aspek": ["KONSEPTUAL"] }
+        ],
+		"correct": 1,
+		"id": 2
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/3_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/3_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["EKSPRESIF", "COMMUNICATION", "LEAD IN CHANGE"] },
+			{"id": 1, "aspek": ["ADAPTIF", "COMMUNICATION"] }
+        ],
+		"correct": 1,
+		"id": 3
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/4_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/4_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["EKSPRESIF", "COMMUNICATION"] },
+			{"id": 1, "aspek": ["ASERTIF", "COMMUNICATION", "LEAD IN CHANGE"] }
+        ],
+		"correct": 1,
+		"id": 4
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/5_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/5_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["DIRECTING", "DEVELOPMENT", "LEAD IN CHANGE"] },
+			{"id": 1, "aspek": ["INFLUENCING", "COMMUNICATION" , "LEAD IN CHANGE"] }
+        ],
+		"correct": 1,
+		"id": 5
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/6_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/6_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["DIRECTING", "DEVELOPMENT", "LEAD IN CHANGE"] },
+			{"id": 1, "aspek": ["LISTENING", "COMMUNICATION"] }
+        ],
+		"correct": 1,
+		"id": 6
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/7_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/7_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["STRUKTURAL"] },
+			{"id": 1, "aspek": ["KONSEPTUAL", "DEVELOPMENT", "LEAD IN CHANGE"] }
+        ],
+		"correct": 1,
+		"id": 7
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/8_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/8_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["STRUKTURAL"]},
+			{"id": 1, "aspek": ["ANALISIS"]}
+        ],
+		"correct": 1,
+		"id": 8
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/9_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/9_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["ADAPTIF", "COMMUNICATION"]},
+			{"id": 1, "aspek": ["ASERTIF", "DEVELOPMENT"]}
+        ],
+		"correct": 1,
+		"id": 9
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/10_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/10_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["ADAPTIF", "DEVELOPMENT"]},
+			{"id": 1, "aspek": ["EKSPRESIF", "LEAD IN CHANGE"]}
+        ],
+		"correct": 1,
+		"id": 10
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/11_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/11_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["INFLUENCING"]},
+			{"id": 1, "aspek": ["LISTENING", "COMMUNICATION"]}
+        ],
+		"correct": 1,
+		"id": 11
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/12_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/12_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["INFLUENCING", "COMMUNICATION", "LEAD IN CHANGE"]},
+			{"id": 1, "aspek": ["DIRECTING", "DEVELOPMENT"]}
+        ],
+		"correct": 1,
+		"id": 12
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/13_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/13_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["KONSEPTUAL", "LEAD IN CHANGE"]},
+			{"id": 1, "aspek": ["ANALISIS"]}
+        ],
+		"correct": 1,
+		"id": 13
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/14_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/14_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["KONSEPTUAL"]},
+			{"id": 1, "aspek": ["STRUKTURAL"]}
+        ],
+		"correct": 1,
+		"id": 14
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/15_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/15_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["ASERTIF", "DEVELOPMENT"]},
+			{"id": 1, "aspek": ["EKSPRESIF", "COMMUNICATION"]}
+        ],
+		"correct": 1,
+		"id": 15
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/16_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/16_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["ASERTIF", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "aspek": ["ADAPTIF"]}
+        ],
+		"correct": 1,
+		"id": 16
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/17_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/17_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["LISTENING", "LEAD IN CHANGE"]},
+			{"id": 1, "aspek": ["DIRECTING", "DEVELOPMENT"]}
+        ],
+		"correct": 1,
+		"id": 17
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/18_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/18_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["LISTENING"]},
+			{"id": 1, "aspek": ["INFLUENCING"]}
+        ],
+		"correct": 1,
+		"id": 18
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/19_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/19_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["ANALISIS"]},
+			{"id": 1, "aspek": ["STRUKTURAL"]}
+        ],
+		"correct": 1,
+		"id": 19
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/20_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/20_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["ANALISIS"]},
+			{"id": 1, "aspek": ["KONSEPTUAL"]}
+        ],
+		"correct": 1,
+		"id": 20
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/21_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/21_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["EKSPRESIF", "DEVELOPMENT", "COMMUNICATION", "LEAD IN CHANGE"]},
+			{"id": 1, "aspek": ["ADAPTIF", "COMMUNICATION"]}
+        ],
+		"correct": 1,
+		"id": 21
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/22_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/22_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["EKSPRESIF", "COMMUNICATION"]},
+			{"id": 1, "aspek": ["ASERTIF", "DEVELOPMENT"]}
+        ],
+		"correct": 1,
+		"id": 22
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/23_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/23_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["DIRECTING", "DEVELOPMENT", "COMMUNICATION"]},
+			{"id": 1, "aspek": ["INFLUENCING", "DEVELOPMENT", "COMMUNICATION"]}
+        ],
+		"correct": 1,
+		"id": 23
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/24_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/24_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["DIRECTING", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "aspek": ["LISTENING", "DEVELOPMENT", "COMMUNICATION"]}
+        ],
+		"correct": 1,
+		"id": 24
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/25_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/25_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["STRUKTURAL"]},
+			{"id": 1, "aspek": ["KONSEPTUAL", "DEVELOPMENT"]}
+        ],
+		"correct": 1,
+		"id": 25
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/26_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/26_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["STRUKTURAL", "COMMUNICATION"]},
+			{"id": 1, "aspek": ["ANALISIS", "LEAD IN CHANGE"]}
+        ],
+		"correct": 1,
+		"id": 26
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/27_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/28_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["ADAPTIF", "COMMUNICATION"]},
+			{"id": 1, "aspek": ["ASERTIF", "LEAD IN CHANGE"]}
+        ],
+		"correct": 1,
+		"id": 27
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/28_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/28_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["ADAPTIF"]},
+			{"id": 1, "aspek": ["EKSPRESIF", "DEVELOPMENT", "COMMUNICATION", "LEAD IN CHANGE"]}
+        ],
+		"correct": 1,
+		"id": 28
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/29_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/29_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["INFLUENCING", "COMMUNICATION", "LEAD IN CHANGE"]},
+			{"id": 1, "aspek": ["LISTENING", "COMMUNICATION"]}
+        ],
+		"correct": 1,
+		"id": 29
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/30_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/30_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["INFLUENCING"]},
+			{"id": 1, "aspek": ["DIRECTING", "DEVELOPMENT"]}
+        ],
+		"correct": 1,
+		"id": 30
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/31_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/31_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["KONSEPTUAL", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "aspek": ["ANALISIS", "DEVELOPMENT", "LEAD IN CHANGE"]}
+        ],
+		"correct": 1,
+		"id": 31
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/32_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/32_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["KONSEPTUAL", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "aspek": ["STRUKTURAL"]}
+        ],
+		"correct": 1,
+		"id": 32
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/33_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/33_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["ASERTIF", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "aspek": ["EKSPRESIF"]}
+        ],
+		"correct": 1,
+		"id": 33
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/34_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/34_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["ASERTIF", "COMMUNICATION", "LEAD IN CHANGE"]},
+			{"id": 1, "aspek": ["ADAPTIF"]}
+        ],
+		"correct": 1,
+		"id": 34
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/35_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/35_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["LISTENING", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "aspek": ["DIRECTING", "COMMUNICATION"]}
+        ],
+		"correct": 1,
+		"id": 35
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/36_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/36_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["LISTENING"]},
+			{"id": 1, "aspek": ["INFLUENCING", "LEAD IN CHANGE"]}
+        ],
+		"correct": 1,
+		"id": 36
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/37_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/37_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["ANALISIS"]},
+			{"id": 1, "aspek": ["STRUKTURAL", "COMMUNICATION"]}
+        ],
+		"correct": 1,
+		"id": 37
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/38_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/38_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["ANALISIS", "DEVELOPMENT", "LEAD IN CHANGE"]},
+			{"id": 1, "aspek": ["KONSEPTUAL", "DEVELOPMENT"]}
+        ],
+		"correct": 1,
+		"id": 38
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/39_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/39_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["EKSPRESIF"]},
+			{"id": 1, "aspek": ["ADAPTIF", "COMMUNICATION"]}
+        ],
+		"correct": 1,
+		"id": 39
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/40_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/40_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["EKSPRESIF"]},
+			{"id": 1, "aspek": ["ASERTIF", "COMMUNICATION", "LEAD IN CHANGE"]}
+        ],
+		"correct": 1,
+		"id": 40
+	},
+	{
+		"question": "",
+        "qImg": "",
+		"choice": [
+			{"id": 0, "cImg": "http://dev.klabang.net/kids/41_1.png", "text":""},
+			{"id": 1, "cImg": "http://dev.klabang.net/kids/41_2.png", "text":""}
+		],
+        "aspect":[
+			{"id": 0, "aspek": ["DIRECTING", "DEVELOPMENT", "COMMUNICATION", "LEAD IN CHANGE"]},
+			{"id": 1, "aspek": ["INFLUENCING", "COMMUNICATION", "LEAD IN CHANGE"]}
+        ],
+		"correct": 1,
+		"id": 41
+	}
+]
